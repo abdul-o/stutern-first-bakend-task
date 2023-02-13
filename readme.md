@@ -4,11 +4,11 @@
         Answer: Javascript code can also be run in Node
 
     2. Name 5 things Javascript can do.
-          a. JavaScript is use to build interactive web pages. Some developers refer
-          b.   These days, you can build full blown Web or
-           c.  Mobile applications as 
-           d.   well as Real-time Networking Applications like Chats, Video streaming services, command line tools
- or         e. even games.
+          a. JavaScript is use to build interactive web pages.
+          b. It also use to build full Website
+          c. JavaScript is also use to build Mobile applications 
+          d. It is use to develop chatting application 
+          e. It can be use to develop games.
 
 
     3. When was ECMAScript first released ?
@@ -34,10 +34,13 @@
       e. Front-end Web developer
       f. Web hakers
       
-• Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
-• Differentiate between the JavaScript data types ‘null’ and ‘undefined
+      6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
 
-     Undefined means a variable that has been declared, but the value of that variable has not yet been assigned.
+      7. Differentiate between the JavaScript data types ï¿½nullï¿½ and ï¿½undefined
+
+          1- Undefined means a variable that has been declared, but the value of that variable has not yet been assigned.
+ 
+          2- A null means the absence of a value. You assign a null to a variable with the intention that currently this variable does not have any value but it will have later on. It is like a placeholder for a value. The type of null is the object.
 
 
 
