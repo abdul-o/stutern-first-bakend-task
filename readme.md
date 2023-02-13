@@ -34,7 +34,16 @@
       e. Front-end Web developer
       f. Web hakers
       
-      6. Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
+      6. Differentiate between Statically typed and Dynamically typed programming languages and give examples 
+           of languages that fall under each category.
+
+
+           1. We call a language “statically-typed” if it follows type checking during compilation. So, every detail about the variables and all the data types must be known before we do the compiling process. examples are Java, C, C++, C#, Swift, Scala, Kotlin, Fortran, Pascal, Rust,
+
+
+           2. We call a language “dynamically typed” if type checking takes place while the program runs (run-time). In this type of language, there is no need to specify the data type of each variable while writing code. Some examples of dynamically-typed languages are Python, Javascript, Ruby, Perl, PHP, R, Dart, Lua, Objective-C, etc.
+
+In this type of language, once a variable is assigned a type, it can’t be assigned to some other variable of a different type. 
 
       7. Differentiate between the JavaScript data types �null� and �undefined
 
